@@ -8,7 +8,7 @@ public class JtrpBlogApplicationMini03Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JtrpBlogApplicationMini03Application.class, args);
-                                  //dev2
+                                  
 		
 	}
 
